@@ -1,5 +1,7 @@
 # Valentino Valero
+My name is V-Dizzle fo shizzle, when it rains it drizzles.
 # Rudra Amin
-
+    Hi, I am Rudra I am a Computer Engineering student. I love
+    watching and playing sports.
 # Jack Lealos
-Hello, my name is jack. I love dogs!
+I am jack lealos.
